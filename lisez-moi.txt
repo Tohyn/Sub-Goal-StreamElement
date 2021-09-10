@@ -1,0 +1,13 @@
+Afin de copier coller le code dans streamelements, 
+il faut Copier les fichiers contenus dans ce Git puis les coller un par un sur StreamElements
+
+Rappel : Vous pouvez télécharger le code en Appuyant sur "Code" puis "Download ZIP"
+
+
+------------------------------------------------------------------------
+
+
+In order to copy paste the code into streamelements,
+you have to copy the files contained in this Git then paste one by one on StreamElements
+
+Reminder: You can download the code by pressing "Code" then "Download ZIP"

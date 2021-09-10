@@ -1,0 +1,51 @@
+{
+  "num_steps": {
+    "type": "number",
+    "label": "Incrémentation",
+    "value": 5,
+    "min": 1
+  },
+  "bar_width": {
+    "type": "number",
+    "label": "Largeur de la barre",
+    "value": 750
+  },
+  "min_width": {
+    "type": "slider",
+    "label": "Largeur minimum de la barre en %",
+    "value": 5,
+    "min": 0,
+    "max": 100,
+    "steps": 1
+  },
+  "main_label": {
+    "type": "text",
+    "label": "Texte dans la barre de chargement",
+    "value": "mini Sub Goal"
+  },
+  "fill_color_label": {
+    "type": "colorpicker",
+    "label": "Couleur du texte",
+    "value": "white"
+  },
+  "fill_color": {
+    "type": "colorpicker",
+    "label": "Couleur de la barre de chargement",
+    "value": "blue"
+  },
+  "fill_color_bg": {
+    "type": "colorpicker",
+    "label": "Couleur du fond",
+    "value": "grey"
+  },
+  "fill_color_goal": {
+    "type": "colorpicker",
+    "label": "Couleur Sub Goal",
+    "value": "white"
+  },
+  "fill_color_current": {
+    "type": "colorpicker",
+    "label": "Couleur Sub Actuel",
+    "value": "white"
+  }
+}
