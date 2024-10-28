@@ -1,4 +1,3 @@
-//Code based on @annedorko's work
 // MINI SUB GOAL BAR
 var fields;
 var totalSubs = 0; // The total number of subs
